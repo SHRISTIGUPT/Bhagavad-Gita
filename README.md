@@ -1,7 +1,7 @@
 # Bhagavad-Gita
 With this program, users can easily search for and retrieve verses from the Bhagavad Gita in different languages(sanskrit, english, hindi, hindi doha) by specifying the chapter number and verse number.
 
-##The program has the following features:
+## The program has the following features:
 
 User Interface: The program provides a user interface built using PySimpleGUI, allowing users to input the chapter number and verse number they want to retrieve.
 
@@ -9,7 +9,7 @@ Verse Retrieval: When the user enters the chapter number and verse number and cl
 
 Display: The program displays the retrieved shlok in separate sections for Sanskrit, Hindi, Hindi Doha, and English translations. The text is formatted for easy readability.
 
-##Here's a basic outline of the program flow:
+## Here's a basic outline of the program flow:
 
 Import the necessary libraries, including PySimpleGUI for the user interface.
 
@@ -25,7 +25,7 @@ Update the corresponding sections in the PySimpleGUI window with the retrieved s
 
 Display the PySimpleGUI window.
 
-##Interface
+## Interface
 ![image](https://github.com/SHRISTIGUPT/Bhagavad-Gita/assets/91000887/028935bc-7679-49be-9e88-4215db8107f6)
 
 ![image](https://github.com/SHRISTIGUPT/Bhagavad-Gita/assets/91000887/12ba3fd7-ed2d-40d4-a15b-1097f4ea2de8)
